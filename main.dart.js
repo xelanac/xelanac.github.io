@@ -59578,7 +59578,7 @@ V(a){return B.Co}}
 A.AB.prototype={
 V(a){var s,r=null,q=t.w,p=A.cg(a,r,q).w
 q=A.cg(a,r,q).w
-s=A.a([B.wM,A.at(38,0,10,255)],t.bk)
+s=A.a([B.wM,A.at(64,0,10,255)],t.bk)
 return A.fZ(r,new A.DH(new A.em(this.Qj(a),A.a4X(A.z3(A.a([B.y1,B.y2,A.fZ(r,new A.zN(new A.QX(),r,r,r,A.a8F(r,r,B.d6,r,r,r,0,r,r,r,r,r,r,r,B.tY,r,r,r,r),B.r,r,!1,r,B.JK,r),B.r,r,r,r,r,50,B.xK,r,r,r,200),new A.Aj(r)],t.W),B.c7),r,r),r),r),B.r,r,r,new A.dR(r,r,r,r,r,new A.ju(B.d2,B.d1,B.az,s,r,r),B.aE),r,q.a.b,r,r,r,r,p.a.a)},
 Qj(a){var s
 switch(A.agH(a)){case"SMALL":return B.aK
@@ -59598,7 +59598,7 @@ return A.W($async$$0,r)},
 $S:20}
 A.Aj.prototype={
 V(a){var s=this,r=null,q=A.cg(a,r,t.w).w,p=A.a([A.at(38,217,217,217),A.at(0,217,217,217)],t.bk),o=t.W
-return A.fZ(r,A.z3(A.a([A.Df(A.a([s.pJ(B.uS,"https://www.linkedin.com/in/alessandro-cancelliere-b1268218a/"),s.pJ(B.uT,"https://github.com/xelanac"),s.pJ(B.uU,"https://telegram.me/xelanac"),s.pJ(B.uQ,"mailto:alessandro@cancelliere.info")],o),B.dF,B.bB),B.CX],o),B.c7),B.r,r,r,new A.dR(r,r,r,r,r,new A.ju(B.d2,B.d1,B.az,p,r,r),B.aE),r,r,r,B.iR,r,r,q.a.a)},
+return A.fZ(r,A.z3(A.a([A.Df(A.a([s.pJ(B.uS,"https://www.linkedin.com/in/alessandro-cancelliere-b1268218a/"),s.pJ(B.uT,"https://github.com/xelanac"),s.pJ(B.uU,"https://telegram.me/xelanac"),s.pJ(B.uQ,"mailto:cancelliere.info@gmail.com")],o),B.dF,B.bB),B.CX],o),B.c7),B.r,r,r,new A.dR(r,r,r,r,r,new A.ju(B.d2,B.d1,B.az,p,r,r),B.aE),r,r,r,B.iR,r,r,q.a.a)},
 pJ(a,b){return new A.em(B.xG,new A.qr(new A.yi(B.d6,a,15,null),B.d6,new A.Qa(b),0,B.uq,null),null)}}
 A.Qa.prototype={
 $0(){var s=0,r=A.X(t.H),q=this,p
